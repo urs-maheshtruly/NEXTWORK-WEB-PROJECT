@@ -3,10 +3,14 @@ Welcome to this project combining Java web app development and AWS CI/CD tools!
 
 
 Table of Contents
-[Introduction](https://github.com/itsnextwork/nextwork-web-project#introduction)
+[Introduction](https://github.com/itsnextwork/nextwork-web-project#introduction) 
+
 [Technologies](https://github.com/itsnextwork/nextwork-web-project#technologies)
+
 [Setup](https://github.com/itsnextwork/nextwork-web-project#setup)
+
 [Contact](https://github.com/itsnextwork/nextwork-web-project#contact)
+
 [Conclusion](https://github.com/itsnextwork/nextwork-web-project#introduction)
 
 Introduction
@@ -37,10 +41,9 @@ git clone https://github.com/yourusername/nextwork-web-project.git
 Navigate to the project directory:
 cd nextwork-web-project
 Install dependencies:
+
 mvn install
 
-Contact
-If you have any questions or comments about the my CI/CD project, please contact: Natasha - email@example.com
-
 LinkedIn
+www.linkedin.com/in/mahesh-alladi-582716290
 
